@@ -1,0 +1,5 @@
+2026.10.18#26
+- Added Circle Buttons
+- Updated Character Renderer
+- Implemented live patch notes parsing
+- Configured dynamic badge system
