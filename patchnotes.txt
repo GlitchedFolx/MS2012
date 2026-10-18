@@ -1,3 +1,7 @@
+2026.10.18#27
+- Fixed Mail System
+- Added nice background for Options and Mail
+- Improved sounds
 2026.10.18#26
 - Added Circle Buttons
 - Updated Character Renderer
