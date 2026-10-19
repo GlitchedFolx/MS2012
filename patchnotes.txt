@@ -1,12 +1,4 @@
-[DISCORD]20.10.2026#42 - Discord Time Baby!| - Added Discord Integration| It's about time discord can recognise this fucking thing.
-[MAIL]19.10.2026#41 - Time Update!| - Added Time| Fuck the Americans. We are 'Straya. Dog.
-[INFO]2026.10.19#40 - Update in the mail!| - Added new music to options background\n - Added Alexis Greene as a playable character| Bringing you a smashing new update from the makings of Alex and Tobias!
-[INFO]2026.10.19#39 - Mail Works!| - Fixed mail box| We now have a proper working, and a nicely styled mailbox.
-[INFO]2026.10.18#38 - Oh crap an update? AT6|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[MAIL]2026.10.18#37 - Oh crap an update? AT5|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[MAIL]2026.10.18#36 - Oh crap an update? AT4|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[INFO]2026.10.18#35 - Oh crap an update? AT3|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[INFO]2026.10.18#34 - Oh crap an update? AT2|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[MAIL]2026.10.18#33 - Oh crap an update? AT1|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
-[INFO]2026.10.18#32 - Welcome to Update!|- Added Circle Options Button\n- Fixed Dynamic Background Switching|Welcome to the brand new user interface update! We have completely overhauled the stacking engine systems.
-[MAIL]2026.10.12#31 - Gameplay Music Adjustments|- Fixed Audio Mixer Channels\n- Balanced Rest Sound Opacity|This minor server update addresses feedback regarding menu track volumes clashing with audio prompts.
+[INFO]19.10.2026#5 - Time Update!| - Added Time|Proper dating has been added to the mail rows. 
+[MAIL]2026.10.19#3 - Mail Works!| - Fixed mail box|We now have a proper working, and a nicely styled mailbox.
+[INFO]2026.10.18#2 - Oh crap an update?|- Checking mail service|I think we might have something that works and just need to add a pop up mail reader.
+[INFO]18.10.2026#1 - Update #1|- Added Circle Options Button\n- Fixed Dynamic Background Switching|Welcome to the brand new user interface update! We have completely overhauled the stacking engine systems.
