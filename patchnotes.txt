@@ -1,3 +1,4 @@
+[MAIL]19.10.2026#41 - Time Update!| - Added Time| Fuck the Americans. We are 'Straya. Dog.
 [INFO]2026.10.19#40 - Update in the mail!| - Added new music to options background\n - Added Alexis Greene as a playable character| Bringing you a smashing new update from the makings of Alex and Tobias!
 [INFO]2026.10.19#39 - Mail Works!| - Fixed mail box| We now have a proper working, and a nicely styled mailbox.
 [INFO]2026.10.18#38 - Oh crap an update? AT6|- Checking mail service\n- It might work now|I think we might have something that works and just need to add a pop up mail reader thing!
